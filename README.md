@@ -1,4 +1,6 @@
-Place to Plug: Electric Vehicle Charging Station Locator
+# Place to Plug: Electric Vehicle Charging Station Locator
+
+https://mallen13.github.io/charging-station-locator/
 
 ## About
 Electric vehicle charging station locator built with React and styled by Chakra UI. Data provided by NREL.gov API. Users can search using their current geolocation or search for a location. After sending locatin data to the api, up to the top ten closest results can be viewed.
