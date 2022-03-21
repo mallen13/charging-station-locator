@@ -16,4 +16,4 @@ Tests were written using Jest and React Testing Library. Fetch and Geolocation f
 The development process started with a planning phase that included listing project requirements and needs. After that, the design was mocked using Figma. Development happened next. Careful planning led to a quick build that went according to plan. Automated testing and a few user tests were done next. Finally, the project was complete and uploaded to GitHub. The process may continue down the road if further updates are warranted.
 
 ## Roadmap
-In the future, some new features could be implemented such as the ability to login and save previously visited locations. In addition, API calls could be offset to allow for pagination of results so that more data can be fetched on a search......
+In the future, some new features could be implemented such as the ability to login and save previously visited locations. In addition, API calls could be offset to allow for pagination of results so that more data can be fetched on a search.
