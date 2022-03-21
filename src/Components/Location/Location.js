@@ -14,6 +14,7 @@ const Location = ({fetchResults}) => {
 
   //open modal
   const openModal = (title,message) => {
+    console.log('opened modal')
     setModalInfo({title: title, message: message})
     onOpen();
   }
@@ -23,7 +24,7 @@ const Location = ({fetchResults}) => {
     //on success and fail
     const locationSuccess = pos => fetchResults(`${pos.coords.latitude}, ${pos.coords.longitude}`,0);
     const locationFail = () => openModal('Geolocation','Unable to get current location, please search instead.')
-    
+
     if (navigator.geolocation) navigator.geolocation.getCurrentPosition(pos => locationSuccess(pos),locationFail)
     else openModal('Geolocation','Geolocation is currently not supported by this broswer.')
   }
