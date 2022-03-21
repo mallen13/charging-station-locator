@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/charging-station-locator/static/js/main.bcc6b5fb.js",
+    "main.js": "/charging-station-locator/static/js/main.264a742e.js",
     "static/js/787.d187dbd0.chunk.js": "/charging-station-locator/static/js/787.d187dbd0.chunk.js",
     "index.html": "/charging-station-locator/index.html",
-    "main.bcc6b5fb.js.map": "/charging-station-locator/static/js/main.bcc6b5fb.js.map",
+    "main.264a742e.js.map": "/charging-station-locator/static/js/main.264a742e.js.map",
     "787.d187dbd0.chunk.js.map": "/charging-station-locator/static/js/787.d187dbd0.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.bcc6b5fb.js"
+    "static/js/main.264a742e.js"
   ]
 }
