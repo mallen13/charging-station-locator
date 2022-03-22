@@ -5,7 +5,6 @@ import RadiusInput from "./Components/RadiusInput";
 import Location from './Components/Location/Location';
 import Results from './Components/Results/Results'
 import { Box,VStack } from '@chakra-ui/react';
-import Footer from './Components/Footer';
 import { getStations } from './AppController';
 
 function App() {
@@ -45,7 +44,6 @@ function App() {
           <Results radius={radius} status={status} stations={stations}/>
         </VStack>
       </Box>
-      <Footer />
     </>
   )
 }
