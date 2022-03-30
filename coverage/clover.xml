@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1648681056584" clover="3.2.0">
+  <project timestamp="1648681056584" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2" elements="17" coveredelements="17" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="App.js" path="/Users/mattallen/Development/place-to-charge/src/App.js">
+      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="13" count="22" type="stmt"/>
+      <line num="14" count="22" type="stmt"/>
+      <line num="15" count="22" type="stmt"/>
+      <line num="18" count="22" type="stmt"/>
+      <line num="20" count="6" type="stmt"/>
+      <line num="23" count="6" type="stmt"/>
+      <line num="26" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="35" count="22" type="stmt"/>
+    </file>
+  </project>
+</coverage>

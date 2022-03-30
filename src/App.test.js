@@ -2,7 +2,6 @@ import { render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import '@testing-library/jest-dom';
 import App from './App';
-import { JustifyLeft } from 'react-bootstrap-icons';
 
 //get fetch before mock
 const unmockedFetch = global.fetch;
